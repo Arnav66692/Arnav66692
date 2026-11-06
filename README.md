@@ -2,6 +2,13 @@
 
 I build and study ML systems, with a focus on inference, evaluation, and reliability.
 
+## Projects
+
+| Project | What it does |
+| --- | --- |
+| [Erase Me](https://github.com/Arnav66692/erase-me) · [Try it](https://erase-me-preview.vercel.app/) | Privacy request toolkit with a browser workspace, Chrome companion and agent skill. Helps find your own broker listings, prepare removal requests and track verification. |
+| [Pledge Line](https://pledge-line.onrender.com/demo) | Donor support and a supply desk for small nonprofits. Uses explicit approvals, PayPal sandbox records, signed receipts and guarded checkout. Sandbox demo; no real money. Source repository is private. |
+
 ## Selected public work
 
 | Project | What you can inspect |
